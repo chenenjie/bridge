@@ -1,0 +1,8 @@
+[dominator]
+addr = ""
+
+[slave]
+addr = ""
+
+[bridge]
+port = ""
